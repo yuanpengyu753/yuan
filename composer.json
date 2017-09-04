@@ -1,0 +1,13 @@
+{
+    "name": "yuanpengyu753/yuan",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "yuanpengyu",
+            "email": "461979314@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
